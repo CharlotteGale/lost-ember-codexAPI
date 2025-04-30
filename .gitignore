@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtual env
+.venv/
+
+# OS / Editor
+.DS_Store
+*.swp
+*.sublime-workspace
+.idea/
+
+# Env / Secrets
+.env
+.env.*
+
+# Backup / dump files
+*.bak
+*.tmp
